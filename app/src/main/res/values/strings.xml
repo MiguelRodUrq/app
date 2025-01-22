@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">multi</string>
+    <string name="volver">volver</string>
+    <string name="dibujo">Actividad Dibujo</string>
+    <string name="sonido">Actividad Sonido</string>
+    <string name="video">Actividad Video</string>
+    <string name="completa">Pantalla completa</string>
+    <string name="minero">Minero</string>
+    <string name="inazuma">Inazuma hardstyle</string>
+</resources>
